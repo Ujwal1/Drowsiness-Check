@@ -8,9 +8,13 @@ The example code is in Python (version 2.7 or higher will work).
 
 ## Dependencies
 * import cv2 
+
 *import immutils
+
 *import dlib
+
 *import scipy
+
 *import winsound #for beep
 
 Download the .dat file from https://drive.google.com/open?id=1Njwp4FE15AydRoBH7EtUNTJycf8jj-8V
